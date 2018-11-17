@@ -5,8 +5,8 @@ hash
 end
 
 def actor
-actor = {
-  :name => "Leonardo Dicaprio"
+actor => {
+  :name = "Leonardo Dicaprio"
 }
 end
 
