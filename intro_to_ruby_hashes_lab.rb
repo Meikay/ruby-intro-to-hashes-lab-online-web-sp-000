@@ -6,7 +6,7 @@ end
 
 def actor
 actor = {
-  :name = "Leonardo Dicaprio"
+  :name => "Leonardo Dicaprio"
 }
 end
 
