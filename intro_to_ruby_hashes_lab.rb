@@ -5,7 +5,9 @@ hash
 end
 
 def actor
-
+actor = {
+  :name => "Leonardo Dicaprio"
+}
 end
 
 def monopoly
